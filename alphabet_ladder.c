@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    printf("ishika\n");
     int i,j,lines;
     char ch='A';
     printf("Enter the no. of lines");
